@@ -1,0 +1,9 @@
+
+
+- `train_model.py`
+- `model.pkl`
+- `main.py`
+- `requirements.txt`
+- `README.md`
+
+
